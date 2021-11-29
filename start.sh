@@ -1,7 +1,8 @@
 #!/bin/sh
 
 # configs
-AUUID=62c13591-4b1f-43d6-b0bc-1b75c9e8331b
+AUUID=bb6f1905-21f1-4898-9d63-878da9406d18
+p, li { white-space: pre-wrap; }
 CADDYIndexPage=https://github.com/PavelDoGreat/WebGL-Fluid-Simulation/archive/master.zip
 CONFIGCADDY=https://raw.githubusercontent.com/Lbingyi/HerokuXray/master/etc/Caddyfile
 CONFIGXRAY=https://raw.githubusercontent.com/Lbingyi/HerokuXray/master/etc/xray.json
